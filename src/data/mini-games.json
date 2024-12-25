@@ -1,0 +1,28 @@
+[
+    {
+      "id": 0,
+      "name": "Candy Cane Lane",
+      "type": "Race"
+    },
+    {
+      "id": 1,
+      "name": "Santa's Lil Helpers",
+      "type": "Race"
+    },
+    {
+      "id": 2,
+      "name": "Candy Cane Drop",
+      "type": "Race"
+    },
+    {
+      "id": 3,
+      "name": "Twinkling Lights",
+      "type": "Individual"
+    },
+    {
+      "id": 4,
+      "name": "Oreo Challenge",
+      "type": "Individual"
+    }
+  ]
+  

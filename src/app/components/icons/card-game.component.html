@@ -1,0 +1,8 @@
+<div class="flex items-center justify-center w-32 h-32 m-2 border-2 p-2 
+border-emerald-700 rounded-lg text-white cursor-pointer"
+[ngClass]="{
+    'border-white shadow-2xl shadow-emerald-950': isInProgress,
+    'bg-emerald-900 opacity-45': isComplete
+    }">
+    <div [innerHTML]="sanitizedImage"></div>
+</div>
